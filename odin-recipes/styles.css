@@ -1,0 +1,29 @@
+/* color, background color, typography properties, etc */
+
+body{
+    font-family: 'Courier New';
+    background-color: rgb(255, 235, 235);
+    color: rgb(38, 38, 38);
+
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+.recipes h1 {
+    text-align: center;
+    /* margin-top: 50px; */
+}
+.recipes ul{
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+img{
+    border-radius: 150px 400px;
+}
+
+
+.content{
+    max-width: 700px;
+    margin: 0 auto;
+}
